@@ -83,10 +83,10 @@
 
 ## 🎀 More GitHub Insights
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurimehrotra1623&theme=rose_pine" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurimehrotra1623&theme=rose_pine" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurimehrotra1623&theme=rose_pine" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurimehrotra1623&theme=rose_pine" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurimehrotra1623&theme=dracula" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurimehrotra1623&theme=dracula" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurimehrotra1623&theme=dracula" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurimehrotra1623&theme=dracula" height="150" />
 </div>
 
 ---
