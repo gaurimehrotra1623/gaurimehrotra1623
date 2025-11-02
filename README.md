@@ -1,6 +1,6 @@
 <!-- 💖 Top Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/LR0dQvR_0-oAAAAi/hello-kitty-pixel-art.gif" alt="Hello Kitty Banner" width="100%" />
+  <img src="https://media.tenor.com/LR0dQvR_0-oAAAAi/hello-kitty-pixel-art.gif" alt="Hello Kitty Banner" width="50%" />
 </p>
 
 <!-- 💕 Intro Heading -->
