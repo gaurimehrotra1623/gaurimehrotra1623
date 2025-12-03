@@ -40,7 +40,7 @@
 - 🎓 2nd-year CSE–AI undergrad who codes in pink and dreams in JavaScript.  
 - 🚀 Building, scaling, and shipping cute *and* functional products.  
 - 💭 Focused on systems, problem-solving, and product thinking.  
-- 🌐 Check out my work → [**Portfolio**](https://gaurimehrotra1623.github.io/Portfolio/)  
+- 🌐 Check out my work → [**Portfolio**](https://personal-portfolio-phi-self-93.vercel.app/)  
 
 ---
 
