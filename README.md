@@ -63,10 +63,9 @@ concepts &nbsp;
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurimehrotra1623&show_icons=true&theme=rose_pine&title_color=AFA9EC&icon_color=ED93B1&hide_border=true&bg_color=00000000" width="49%" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurimehrotra1623&theme=rose_pine&hide_border=true&background=00000000" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurimehrotra1623&layout=compact&theme=rose_pine&title_color=AFA9EC&hide_border=true&bg_color=00000000" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurimehrotra1623&theme=tokyo-night-pink&hide_border=true&bg_color=00000000" width="100%" />
 
