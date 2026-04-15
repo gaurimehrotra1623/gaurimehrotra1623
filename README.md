@@ -1,9 +1,11 @@
-
 <div align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hleHFqazk3eG1tajdtaTlxNDhlZjRxOGV3dDZoOXhnNHV1OGQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L36EE2yCn2XHHftQg5/giphy.gif" alt="banner" width="100%" />
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hleHFqazk3eG1tajdtaTlxNDhlZjRxOGV3dDZoOXhnNHV1OGQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L36EE2yCn2XHHftQg5/giphy.gif" width="100%" height="200px"/>
+</p>
 
 ```
-Gauri mehrotra · CSE-AI '28 · delhi, india · open to collabs
+Gauri Mehrotra · CSE-AI '28 · India · open to collabs
 ```
 
 [![linkedin](https://img.shields.io/badge/linkedin-AFA9EC?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-mehrotra-008580324/)
