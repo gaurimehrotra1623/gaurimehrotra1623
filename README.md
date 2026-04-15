@@ -1,96 +1,77 @@
-<!-- 💖 Top Banner -->
-<p align="center">
-  <img src="https://media.tenor.com/LR0dQvR_0-oAAAAi/hello-kitty-pixel-art.gif" alt="Hello Kitty Banner" width="50%" />
-</p>
-
-<!-- 💕 Intro Heading -->
-<h1 align="center">
-  ♡ Hi there, I’m <a href="https://www.linkedin.com/in/gauri-mehrotra-008580324/" target="_blank">Gauri Mehrotra</a> ♡  
-  <br>
-  <img src="https://media.tenor.com/mvWvE5JfJBAAAAAi/hello-kitty.gif" height="50" />
-</h1>
-
-<!-- 💅 Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=900&lines=CSE-AI'28+Undergrad;Full-Stack+Developer;" />
-</div>
-
-<p align="center">🌸 🌷 🌸 🌷 🌸</p>
-
----
-
-## 💖 Connect With Me  
-<div align="center">
-  <a href="https://www.linkedin.com/in/gauri-mehrotra-008580324/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
-  <br><br>
-  <a href="https://leetcode.com/u/gaurimehrotra16/">
-    <img src="https://img.shields.io/badge/LeetCode-FFC0CB?style=for-the-badge&logo=leetcode&logoColor=white" height="40" alt="LeetCode Badge"/>
-  </a>
-  <br><br>
-  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gaurimehrotra1623&style=for-the-badge&color=FFB6C1" alt="Profile Views" />
-  </p>
-</div>
-
-<p align="center">🌸 🌷 🌸 🌷 🌸</p>
-
----
-
-## 🎀 About Me  
-- 🎓 2nd-year CSE–AI undergrad who codes in pink and dreams in JavaScript.  
-- 🚀 Building, scaling, and shipping cute *and* functional products.  
-- 💭 Focused on systems, problem-solving, and product thinking.  
-- 🌐 Check out my work → [**Portfolio**](https://gaurimehrotra1623.github.io/Portfolio/)  
-
----
-
-## 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,nextjs,java,react,nodejs,express,firebase,supabase,tailwind,postman,figma,git,github" />
-</p>
-
-<p align="center">🌸 🌷 🌸 🌷 🌸</p>
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gaurimehrotra1623&theme=rose_pine&no-frame=true&no-bg=true&margin-w=4" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurimehrotra1623&show_icons=true&theme=rose_pine&title_color=FFB6C1&icon_color=FFC0CB&hide_border=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurimehrotra1623&theme=rose_pine&hide_border=true" width="49%"/>
-</div>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hleHFqazk3eG1tajdtaTlxNDhlZjRxOGV3dDZoOXhnNHV1OGQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L36EE2yCn2XHHftQg5/giphy.gif" alt="banner" width="100%" />
 
-<p align="center">🌸 🌷 🌸 🌷 🌸</p>
+```
+Gauri mehrotra · CSE-AI '28 · delhi, india · open to collabs
+```
 
----
+[![linkedin](https://img.shields.io/badge/linkedin-AFA9EC?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-mehrotra-008580324/)
+[![leetcode](https://img.shields.io/badge/leetcode-ED93B1?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/gaurimehrotra16/)
+[![portfolio](https://img.shields.io/badge/portfolio-5DCAA5?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-phi-self-93.vercel.app/)
+[![views](https://komarev.com/ghpvc/?username=gaurimehrotra1623&style=flat-square&color=AFA9EC)](https://github.com/gaurimehrotra1623)
 
-## 🌷 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurimehrotra1623&theme=tokyo-night-pink&hide_border=true" />
 </div>
 
 ---
 
-## 🐰 Language Usage
+```
+who    2nd yr undergrad, cse-ai. building things on the internet.
+what   exploring ai/ml · messing w/ data & visualizations · full-stack dev · dbms stuff
+how    break things. google things. fix things. mostly.
+why    problems are fun when they look unsolvable
+```
+
+---
+
+**right now**
+
+```
+[ poking at   ]  ai / ml — data viz rabbit holes
+[ building    ]  mern stack — mongo · express · react · node
+[ grinding    ]  leetcode daily — dsa · mostly medium
+[ leveling up ]  system design — apis · scale · architecture
+```
+
+---
+
+**stack**
+
+languages &nbsp;
+`python` `javascript` `typescript` `html` `css`
+
+frameworks &nbsp;
+`react.js` `node.js` `express.js` `fastapi` `rest apis`
+
+databases &nbsp;
+`mysql` `postgresql` `mongodb` `neo4j` `cassandra`
+
+data analysis &nbsp;
+`pandas` `numpy` `matplotlib` `seaborn` `plotly` `excel`
+
+tools &nbsp;
+`github` `postman` `jupyter` `google colab` `figma`
+
+concepts &nbsp;
+`api development` `system design` `dsa` `agile` `project management`
+
+---
+
+**git wrapped**
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurimehrotra1623&layout=compact&theme=rose_pine&title_color=FFB6C1" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaurimehrotra1623&show_icons=true&theme=rose_pine&title_color=AFA9EC&icon_color=ED93B1&hide_border=true&bg_color=00000000" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurimehrotra1623&theme=rose_pine&hide_border=true&background=00000000" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurimehrotra1623&layout=compact&theme=rose_pine&title_color=AFA9EC&hide_border=true&bg_color=00000000" width="49%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurimehrotra1623&theme=tokyo-night-pink&hide_border=true&bg_color=00000000" width="100%" />
+
 </div>
 
 ---
 
-## 🎀 More GitHub Insights
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurimehrotra1623&theme=dracula" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurimehrotra1623&theme=dracula" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurimehrotra1623&theme=dracula" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurimehrotra1623&theme=dracula" height="150" />
+  <sub>break things · fix things · repeat · catch u on the next push</sub>
 </div>
-
----
-
-<h3 align="center">Catch u on the next push 🚀💗</h3>
-
-<p align="right"><a href="#top">🔝 Back to Top</a></p>
