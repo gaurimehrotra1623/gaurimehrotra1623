@@ -1,8 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3hleHFqazk3eG1tajdtaTlxNDhlZjRxOGV3dDZoOXhnNHV1OGQ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L36EE2yCn2XHHftQg5/giphy.gif" width="80%" height="300px"/>
-</p>
 
 ```
 Gauri Mehrotra · CSE-AI '28 · India · open to collabs
