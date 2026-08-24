@@ -15,7 +15,7 @@ Gauri Mehrotra · CSE-AI '28 · India · open to collabs
 ---
 
 ```
-who    2nd yr undergrad, cse-ai. building things on the internet.
+who    3rd yr undergrad, cse-ai. building things on the internet.
 what   exploring ai/ml · messing w/ data & visualizations · full-stack dev · dbms stuff
 how    break things. google things. fix things. mostly.
 why    problems are fun when they look unsolvable
