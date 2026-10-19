@@ -1,75 +1,53 @@
 <div align="center">
 
+<img src="assets/banner.svg" width="100%" alt="Gauri Mehrotra: AI student building fintech and data tools"/>
 
-```
-Gauri Mehrotra · CSE-AI '28 · India · open to collabs
-```
+<br/>
 
-[![linkedin](https://img.shields.io/badge/linkedin-AFA9EC?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-mehrotra-008580324/)
-[![leetcode](https://img.shields.io/badge/leetcode-ED93B1?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/gaurimehrotra16/)
-[![portfolio](https://img.shields.io/badge/portfolio-5DCAA5?style=flat-square&logo=vercel&logoColor=white)](https://personal-portfolio-phi-self-93.vercel.app/)
-[![views](https://komarev.com/ghpvc/?username=gaurimehrotra1623&style=flat-square&color=AFA9EC)](https://github.com/gaurimehrotra1623)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-mehrotra-008580324/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://dva-portfolio-54vm.vercel.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gaurimehrotra16/)
 
 </div>
 
 ---
 
-```
-who    3rd yr undergrad, cse-ai. building things on the internet.
-what   exploring ai/ml · messing w/ data & visualizations · full-stack dev · dbms stuff
-how    break things. google things. fix things. mostly.
-why    problems are fun when they look unsolvable
-```
+### 👋 About
 
----
+3rd-year B.Tech (AI) student at Newton School of Technology. I work where **finance meets data**: reading company filings, modelling risk, and turning messy numbers into dashboards people can act on. Currently looking for fintech and financial-services data roles.
 
-**right now**
+### 🚀 Featured work
 
-```
-[ poking at   ]  ai / ml — data viz rabbit holes
-[ building    ]  mern stack — mongo · express · react · node
-[ grinding    ]  leetcode daily — dsa · mostly medium
-[ leveling up ]  system design — apis · scale · architecture
-```
+| Project | What it does | Stack |
+|---|---|---|
+| **[PlainLedger](https://github.com/gaurimehrotra1623/PlainLedger)** | Analyses SEC filings across 500+ public companies, with a Groq-powered assistant (*Milo*) that answers questions about them | Python, Pandas, Groq API |
+| **[Alternative credit-risk modelling](https://github.com/gaurimehrotra1623?tab=repositories)** | Credit-risk model for gig-economy workers with no traditional credit history, using STL decomposition on income patterns | Python, statsmodels |
+| **[International Student Career Outcomes](https://github.com/gaurimehrotra1623/International-Student-Career-Outcomes-Analysis-Python-Tableau-)** | Education, employment and salary trends, cleaned in Python and shown in an interactive Tableau dashboard | Python, Tableau |
 
----
+### 🛠️ Toolkit
 
-**stack**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-languages &nbsp;
-`python` `javascript` `typescript` `html` `css`
+**Finance skills:** financial statement and SEC filing analysis · security analysis · portfolio management
 
-frameworks &nbsp;
-`react.js` `node.js` `express.js` `fastapi` `rest apis`
-
-databases &nbsp;
-`mysql` `postgresql` `mongodb` `neo4j` `cassandra`
-
-data analysis &nbsp;
-`pandas` `numpy` `matplotlib` `seaborn` `plotly` `excel`
-
-tools &nbsp;
-`github` `postman` `jupyter` `google colab` `figma`
-
-concepts &nbsp;
-`api development` `system design` `dsa` `agile` `project management`
-
----
-
-**git wrapped**
+### 🐍 Contribution snake
 
 <div align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurimehrotra1623&theme=rose_pine&hide_border=true&background=00000000" width="49%" />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurimehrotra1623&theme=tokyo-night-pink&hide_border=true&bg_color=00000000" width="100%" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurimehrotra1623/gaurimehrotra1623/output/github-snake-dark.svg"/>
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/gaurimehrotra1623/gaurimehrotra1623/output/github-snake.svg"/>
+  </picture>
 </div>
 
----
-
 <div align="center">
-  <sub>break things · fix things · repeat · catch u on the next push</sub>
+
+*Open to collaborations. Say hi on [LinkedIn](https://www.linkedin.com/in/gauri-mehrotra-008580324/).*
+
 </div>
