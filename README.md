@@ -5,7 +5,6 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gauri-mehrotra-008580324/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://dva-portfolio-54vm.vercel.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/gaurimehrotra16/)
 
 </div>
@@ -21,7 +20,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **[PlainLedger](https://github.com/gaurimehrotra1623/PlainLedger)** | Analyses SEC filings across 500+ public companies, with a Groq-powered assistant (*Milo*) that answers questions about them | Python, Pandas, Groq API |
-| **[Alternative credit-risk modelling](https://github.com/gaurimehrotra1623?tab=repositories)** | Credit-risk model for gig-economy workers with no traditional credit history, using STL decomposition on income patterns | Python, statsmodels |
+| **[Alternative credit-risk modelling](https://github.com/gaurimehrotra1623/gig-income-credit-risk.git)** | Credit-risk model for gig-economy workers with no traditional credit history, using STL decomposition on income patterns | Python, statsmodels |
 | **[International Student Career Outcomes](https://github.com/gaurimehrotra1623/International-Student-Career-Outcomes-Analysis-Python-Tableau-)** | Education, employment and salary trends, cleaned in Python and shown in an interactive Tableau dashboard | Python, Tableau |
 
 ### 🛠️ Toolkit
