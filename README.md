@@ -19,6 +19,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Gig income volatility and credit risk]([https://github.com/gaurimehrotra1623/PlainLedger](https://github.com/gaurimehrotra1623/gig-income-credit-risk.git))** | Testing whether separating predictable income patterns from residual volatility improves credit risk prediction for gig workers. | Python, Pandas, NumPy, Statsmodels, Scikit-learn, Matplotlib |
 | **[PlainLedger](https://github.com/gaurimehrotra1623/PlainLedger)** | Analyses SEC filings across 500+ public companies, with a Groq-powered assistant (*Milo*) that answers questions about them | Python, Pandas, Groq API |
 | **[Alternative credit-risk modelling](https://github.com/gaurimehrotra1623/gig-income-credit-risk.git)** | Credit-risk model for gig-economy workers with no traditional credit history, using STL decomposition on income patterns | Python, statsmodels |
 | **[International Student Career Outcomes](https://github.com/gaurimehrotra1623/International-Student-Career-Outcomes-Analysis-Python-Tableau-)** | Education, employment and salary trends, cleaned in Python and shown in an interactive Tableau dashboard | Python, Tableau |
